@@ -1,7 +1,7 @@
 [
   {
     "id": "1726806238080",
-    "content": "测试一下Markdown预览。\n\n> 这是我的Sublink网站截图。\n\n![](https://mazzzystar.github.io/images/2023-12-07/sublink-screenshot.jpg)",
+    "content": "测试一下Markdown预览:\n\n> 这是我的Sublink网站截图。\n\n![](https://mazzzystar.github.io/images/2023-12-07/sublink-screenshot.jpg)",
     "timestamp": "2024-09-20T04:23:58.080Z"
   },
   {
