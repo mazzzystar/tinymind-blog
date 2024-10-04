@@ -3,6 +3,7 @@ title: 用 2 万条真人AI海龟汤数据评估大模型推理能力
 date: 2024-09-21T14:07:12.115Z
 ---
 
+
 GPT-4o, Kimi-Chat, DeepSeek, Qwen2-72b, LLama3.1，谁是真实推理游戏的王者？
 
 ## 海龟汤
