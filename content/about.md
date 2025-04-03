@@ -1,4 +1,4 @@
-我叫 Ke Fang，网络昵称是[碎瓜](https://web.okjike.com/u/6eac6f05-f278-4c74-9806-260532050ccb)或[Mazzystar](https://twitter.com/immazzystar)，来自我喜欢的两个乐队。我之前是算法工程师。因为脑子里有太多未完成的想法，从 2022 年底离职并开始个人开发之旅。
+我叫 Ke Fang，网络昵称是[碎瓜](https://web.okjike.com/u/6eac6f05-f278-4c74-9806-260532050ccb)或[Mazzystar](https://mazzzystar.com)，来自我喜欢的两个乐队。我之前是算法工程师。因为脑子里有太多未完成的想法，从 2022 年底离职并开始个人开发之旅。
 
 我用双语写作：中文是我的母语，让我能自由地使用最精确的措辞完成表达，因为一些文章([#1](https://news.ycombinator.com/item?id=34686947), [#2](https://news.ycombinator.com/item?id=35885797), [#3](https://news.ycombinator.com/item?id=38287299))登上 Hacker News 首页，有了一批英语读者，所以我也会使用 ~~GPT-4~~ Claude 将文章翻译成英语，让我的想法触及到世界上更多地区的人们。
 
